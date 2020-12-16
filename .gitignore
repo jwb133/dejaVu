@@ -6,3 +6,5 @@ vignettes/*
 !vignettes/*.Rnw
 !vignettes/*.bib
 tests/*.pdf
+doc
+Meta

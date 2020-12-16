@@ -8,13 +8,12 @@ Author: c(person("Nikolas", "Burkoff",
             email='paul.metcalfe@astrazeneca.com',
             role=c("aut")),  
           person("Jonathan", "Bartlett", 
-            email='jonathan.bartlett1@astrazeneca.com',
+            email='j.w.bartlett@bath.ac.uk',
             role=c("aut")),
           person("David", "Ruau", 
-            email='david.ruau@astrazeneca.com',
             role=c("aut"))
         )
-Maintainer: Jonathan Bartlett <jonathan.bartlett1@astrazeneca.com>
+Maintainer: Jonathan Bartlett <j.w.bartlett@bath.ac.uk>
 Description: Performs reference based multiple imputation of recurrent event data
     based on a negative binomial regression model, as described
     by Keene et al (2014) <doi:10.1002/pst.1624>.
@@ -29,4 +28,4 @@ Imports:
     MASS,
     stats
 VignetteBuilder: knitr
-RoxygenNote: 6.0.1
+RoxygenNote: 7.1.1

@@ -4,3 +4,5 @@
 ^\.Rproj\.user$
 ^\.travis\.yml$
 ^cran-comments\.md$
+^doc$
+^Meta$

@@ -4,8 +4,12 @@
 \alias{CreateNewImputeMechanism}
 \title{A function which creates an Impute Mechanism object}
 \usage{
-CreateNewImputeMechanism(name, cols.needed = vector("character"), impute,
-  parameters = NULL)
+CreateNewImputeMechanism(
+  name,
+  cols.needed = vector("character"),
+  impute,
+  parameters = NULL
+)
 }
 \arguments{
 \item{name}{The method name (used for printing)}
