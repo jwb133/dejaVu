@@ -2,14 +2,15 @@ Package: dejaVu
 Type: Package
 Title: Multiple Imputation for Recurrent Events
 Version: 0.2.1
-Author: c(person("Nikolas", "Burkoff", 
+Authors@R: c(
+          person("Nikolas", "Burkoff", 
             role=c("aut")),
           person("Paul", "Metcalfe", 
             email='paul.metcalfe@astrazeneca.com',
             role=c("aut")),  
           person("Jonathan", "Bartlett", 
             email='j.w.bartlett@bath.ac.uk',
-            role=c("aut")),
+            role=c("aut", "cre")),
           person("David", "Ruau", 
             role=c("aut"))
         )
