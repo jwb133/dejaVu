@@ -27,7 +27,7 @@ the vector \code{numeric(0)} is returned.}
 \item{parameters}{A list of named parameters describing the method (used for printing) - or NULL if none}
 }
 \value{
-A \code{\link{ImputeMechanism}} object
+A \code{\link{ImputeMechanism.object}}
 }
 \description{
 A function which creates an Impute Mechanism object
