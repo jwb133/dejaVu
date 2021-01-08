@@ -27,6 +27,9 @@ their current censored.time (i.e. the study follow up time))}
 
 \item{parameters}{A list of named parameters for the mechanism (only used for printing) or NULL if none}
 }
+\value{
+A \code{\link{DropoutMechanism.object}}
+}
 \description{
 A function which creates a DropOut Mechanism object
 }
