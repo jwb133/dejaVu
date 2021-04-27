@@ -1,7 +1,7 @@
 Package: dejaVu
 Type: Package
 Title: Multiple Imputation for Recurrent Events
-Version: 0.2.1
+Version: 0.3.0
 Authors@R: c(
           person("Nikolas", "Burkoff", 
             role=c("aut")),
@@ -30,3 +30,4 @@ Imports:
     stats
 VignetteBuilder: knitr
 RoxygenNote: 7.1.1
+Encoding: UTF-8
