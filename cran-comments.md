@@ -1,8 +1,6 @@
 ## Test environments
-* local Windows install, R 4.0.5
-* Ubuntu 16.04.6 LTS (on travis-ci), R version 4.0.2 (2020-06-22)
-* win-builder devel 4.1.0 alpha (2021-04-25 r80223
-* win-builder release 4.0.5
+* local Mac install, R 4.4.1
+* win-builder R Under development (unstable) (2024-07-08 r86886 ucrt)
 
 ## R CMD check results
 
